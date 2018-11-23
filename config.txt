@@ -1,6 +1,6 @@
 token=NTE1NDcyODA2NDYxMzA4OTM4.DtlvUQ.dNOvm8m4dpUfQJGYVatkZn0RxGw
-owner=310014765235961856 
+owner=511505833155362816 
 prefix=!
-game=مهاب حلو مررررة
+game=- Șɱ | Mr.Crazy
 stayinchannel=true
 songinstatus=true
