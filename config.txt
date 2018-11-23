@@ -1,4 +1,4 @@
-token=7afehrC4Aw2oPAeAnV9sRXO5bbkDZcxx
+token=NTE1NDcyODA2NDYxMzA4OTM4.DtlvUQ.dNOvm8m4dpUfQJGYVatkZn0RxGw
 owner=310014765235961856 
 prefix=!
 game=مهاب حلو مررررة
